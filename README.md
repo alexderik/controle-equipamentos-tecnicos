@@ -30,7 +30,7 @@ Esse sistema resolve isso substituindo controle manual/disperso por uma planilha
 ![Dashboard](dashboard.png)
 
 **Ranking de técnicos — equipamentos pendentes em clientes**
-![Ranking Clientes](screenshots/ranking_clientes.png)
+![Ranking Clientes](ranking_clientes.png)
 
 ## Estrutura da planilha
 
