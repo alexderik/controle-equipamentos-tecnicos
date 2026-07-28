@@ -27,7 +27,7 @@ Esse sistema resolve isso substituindo controle manual/disperso por uma planilha
 ## Capturas de tela
 
 **Dashboard — entregas por período**
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 **Ranking de técnicos — equipamentos pendentes em clientes**
 ![Ranking Clientes](screenshots/ranking_clientes.png)
