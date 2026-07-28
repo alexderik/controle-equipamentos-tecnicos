@@ -24,6 +24,14 @@ Esse sistema resolve isso substituindo controle manual/disperso por uma planilha
 - **Comprovante de devolução** gerado automaticamente por técnico e data
 - **Normalização de nomes**: uma tabela de "apelidos" resolve variações no registro do nome do mesmo técnico ao longo do tempo (ex.: mudança de empresa terceirizada, nome digitado de forma diferente), evitando que o mesmo profissional apareça como pessoas distintas nas consultas
 
+## Capturas de tela
+
+**Dashboard — entregas por período**
+![Dashboard](screenshots/dashboard.png)
+
+**Ranking de técnicos — equipamentos pendentes em clientes**
+![Ranking Clientes](screenshots/ranking_clientes.png)
+
 ## Estrutura da planilha
 
 | Aba | Função |
