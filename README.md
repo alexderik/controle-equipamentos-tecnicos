@@ -27,7 +27,7 @@ Esse sistema resolve isso substituindo controle manual/disperso por uma planilha
 ## Capturas de tela
 
 **Dashboard — entregas por período**
-![Dashboard](screenshots/dashboard.png](https://github.com/alexderik/controle-equipamentos-tecnicos/blob/main/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 **Ranking de técnicos — equipamentos pendentes em clientes**
 ![Ranking Clientes](screenshots/ranking_clientes.png)
